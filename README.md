@@ -20,6 +20,3 @@ Join us as we grow and make campus life tastier and more convenient, one meal at
 ## Website
 
 https://alimento.vercel.app/
-
-
-[README.md](https://github.com/user-attachments/files/16789887/README.md)
