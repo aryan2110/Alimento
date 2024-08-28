@@ -15,7 +15,7 @@ Join us as we grow and make campus life tastier and more convenient, one meal at
 - [@aryan2110](https://github.com/aryan2110)
 - [@theamangautam](https://github.com/theamangautam)
 - [@mahith9900](https://github.com/mahith9900)
-- [@]
+- [@johnsiada](https://github.com/johnsiada)
 
 ## Website
 
